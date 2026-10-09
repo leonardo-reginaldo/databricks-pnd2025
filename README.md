@@ -7,9 +7,15 @@ Pipeline de dados que ingere os microdados da **Prova Nacional Docente (PND) 202
 ## Fonte dos dados
 
 [Inep | Prova Nacional Docente | Resultados](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/prova-nacional-docente/resultados) 
+
 Microdados (13 arquivos `.txt`)
+
 dicionário de dados (`.xlsx`).
+
 Os dados **não** estão neste repositório. Baixe-os na fonte oficial.
+
+<img width="1164" height="537" alt="image" src="https://github.com/user-attachments/assets/1e1180a7-230e-428d-9aab-b6e251d312cf" />
+
 
 ## Arquitetura
 
@@ -54,6 +60,12 @@ sql/              consultas
 pipeline/         jobs e workflows
 docs/             documentação e imagens
 ```
+
+## CI/CD com Git Hub
+
+
+<img width="1867" height="872" alt="image" src="https://github.com/user-attachments/assets/455329d1-976c-4419-b3e7-23f053e4651e" />
+
 
 ## Como reproduzir
 
