@@ -1,4 +1,4 @@
-# PND 2025 | Pipeline Medallion no Databricks
+# PND 2025 | Pipeline Medallion no Databricks + Git Hub + Power BI
 
 Pipeline de dados que ingere os microdados da **Prova Nacional Docente (PND) 2025**, do Inep, e entrega uma tabela analítica de proficiência por município, grupo e caderno, com suas dimensões.
 
@@ -67,6 +67,12 @@ docs/             documentação e imagens
 <img width="1867" height="872" alt="image" src="https://github.com/user-attachments/assets/455329d1-976c-4419-b3e7-23f053e4651e" />
 
 
+## Resultados | Power BI Analytics
+
+<img width="1328" height="737" alt="image" src="https://github.com/user-attachments/assets/f267b7af-892c-4100-99e8-b4a6141c040e" />
+
+
+
 ## Como reproduzir
 
 1. Crie um workspace no Databricks (a Free Edition basta) e conecte este repositório como **Git folder**.
@@ -76,12 +82,6 @@ docs/             documentação e imagens
 
 Cada notebook é dividido em passos, um por célula, com documentação em Markdown. Todos podem ser reexecutados.
 
-## Resultados
-
-<!-- Remova os comentários abaixo depois de adicionar as imagens em docs/img/ -->
-<!-- ![Catálogo e tabelas](docs/img/catalogo.png) -->
-<!-- ![Tabela gold](docs/img/gold_proficiencia.png) -->
-<!-- ![Log de auditoria](docs/img/log_auditoria.png) -->
 
 ## Autor
 
